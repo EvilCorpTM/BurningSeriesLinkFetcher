@@ -1,0 +1,3 @@
+[submodule "anticaptcha-php"]
+	path = anticaptcha-php
+	url = https://github.com/AdminAnticaptcha/anticaptcha-php
